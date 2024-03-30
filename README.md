@@ -19,9 +19,6 @@ I'm eager to collaborate on open-source projects related to DevOps tools and pra
 ## 📫 How to Reach Me
 The best way to reach out to me is through [LinkedIn](https://www.linkedin.com/in/amir-levy-613921264/). Whether you have a question, a project idea, or just want to say hi, don't hesitate to send a message!
 
-## 😄 Pronouns
-He/Him
-
 ## ⚡ Fun Fact
 While I'm deeply passionate about DevOps and technology, I have an equally keen interest in the stock market. I'm fascinated by its dynamics and the way global events can ripple through it. You might find me analyzing trends and predicting market movements, always looking for parallels between the fluidity of technology and the stock market's ever-changing nature.
 
